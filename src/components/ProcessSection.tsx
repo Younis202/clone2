@@ -351,10 +351,10 @@ export default function ProcessSection() {
           >
             <a href="#" className="case_study_video w-inline-block w-lightbox" aria-label="open lightbox" aria-haspopup="dialog">
               <img
-                src="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min.png"
+                src="https://ik.imagekit.io/pcet3dvcu/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min-p-800.png?updatedAt=1761826630642"
                 loading="lazy"
                 sizes="(max-width: 479px) 89vw, (max-width: 767px) 92vw, (max-width: 991px) 90vw, (max-width: 1439px) 40vw, 496.34375px"
-                srcSet="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min-p-500.png 500w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min-p-800.png 800w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min-p-1080.png 1080w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min.png 1221w"
+                srcSet="https://ik.imagekit.io/pcet3dvcu/66b47d0251d2e3e1d7cd3684_case-study-cover%20(5)-min-p-800.png?updatedAt=1761826630642"
                 alt=""
                 className="video_cover"
               />

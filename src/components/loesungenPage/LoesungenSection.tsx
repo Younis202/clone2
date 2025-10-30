@@ -359,10 +359,10 @@ export default function LoesungenSection() {
           >
             <a href="#" className="case_study_video w-inline-block w-lightbox" aria-label="open lightbox" aria-haspopup="dialog">
               <img
-                src="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min.png"
+                src="https://ik.imagekit.io/pcet3dvcu/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min.png?updatedAt=1761826632137"
                 loading="lazy"
                 sizes="100vw"
-                srcSet="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min-p-500.png 500w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min-p-800.png 800w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min-p-1080.png 1080w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min.png 1221w"
+                srcSet="https://ik.imagekit.io/pcet3dvcu/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min.png?updatedAt=1761826632137"
                 alt=""
                 className="video_cover"
               />
@@ -419,10 +419,10 @@ export default function LoesungenSection() {
             </div>
             <a href="#" className="case_study_video w-inline-block w-lightbox" aria-label="open lightbox" aria-haspopup="dialog">
               <img
-                src="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min.png"
+                src="https://ik.imagekit.io/pcet3dvcu/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min.png?updatedAt=1761826632872"
                 loading="lazy"
                 sizes="100vw"
-                srcSet="https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min-p-500.png 500w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min-p-800.png 800w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min-p-1080.png 1080w, https://cdn.prod.website-files.com/669b91437d706d72b094ed4c/66b47948f732ec8ad1f9e4ad_case-study-cover%20(3)-min.png 1221w"
+                srcSet="https://ik.imagekit.io/pcet3dvcu/669ce20a954d4a3154d62e79_case-study-cover%20(1)-min.png?updatedAt=1761826632872"
                 alt=""
                 className="video_cover"
               />
